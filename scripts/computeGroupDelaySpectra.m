@@ -29,12 +29,10 @@ end
 pos = 1;
 i = 1;
 while(pos+winSize<=N)
-    groupDelaySpectra(:,i) = abs((deriveMinGD(x(pos:pos+winSize-1).*h)));
+    groupDelaySpectra(:,i) = abs((derive_modified_gd(x(pos:pos+winSize-1).*h)));
     pos = pos + hopSize;
     i = i+1;
 end
-
-%groupDelaySpectra = groupDelaySpectra.^2;
 
 logE = sum(log(abs(groupDelaySpectra)));
 

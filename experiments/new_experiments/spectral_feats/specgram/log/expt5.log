@@ -1,0 +1,861 @@
+Building computational graph
+Reading data
+Training Neural Network
+('Epoch 0 loss', 0.29369318970859615)
+Train  Classification Accuracy: 66.9085720543%
+('Valid Loss = ', 0.32687277)
+Valid  Classification Accuracy: 61.893456328%
+('Test Loss = ', 0.28665179)
+Test  Classification Accuracy: 67.940342195%
+ 
+('Epoch 1 loss', 0.24634541267952884)
+Train  Classification Accuracy: 70.7427445144%
+('Valid Loss = ', 0.32052287)
+Valid  Classification Accuracy: 61.9316361594%
+('Test Loss = ', 0.28172135)
+Test  Classification Accuracy: 67.827936872%
+ 
+('Epoch 2 loss', 0.22774728486296716)
+Train  Classification Accuracy: 72.5423418229%
+('Valid Loss = ', 0.31407773)
+Valid  Classification Accuracy: 62.2138158328%
+('Test Loss = ', 0.2776359)
+Test  Classification Accuracy: 67.7932345575%
+ 
+('Epoch 3 loss', 0.2139979016021219)
+Train  Classification Accuracy: 73.9089675947%
+('Valid Loss = ', 0.30937052)
+Valid  Classification Accuracy: 62.3748732825%
+('Test Loss = ', 0.27571559)
+Test  Classification Accuracy: 67.5880382631%
+ 
+('Epoch 4 loss', 0.20321517438112924)
+Train  Classification Accuracy: 75.0055308622%
+('Valid Loss = ', 0.30507886)
+Valid  Classification Accuracy: 62.4661537989%
+('Test Loss = ', 0.27306804)
+Test  Classification Accuracy: 67.4763873382%
+ 
+('Epoch 5 loss', 0.19438266524261039)
+Train  Classification Accuracy: 75.9310284722%
+('Valid Loss = ', 0.30176261)
+Valid  Classification Accuracy: 62.5477796453%
+('Test Loss = ', 0.27071118)
+Test  Classification Accuracy: 67.4469658107%
+ 
+('Epoch 6 loss', 0.1869008048844111)
+Train  Classification Accuracy: 76.7162991716%
+('Valid Loss = ', 0.29879406)
+Valid  Classification Accuracy: 62.5969306926%
+('Test Loss = ', 0.26898041)
+Test  Classification Accuracy: 67.3752979873%
+ 
+('Epoch 7 loss', 0.18043102641356198)
+Train  Classification Accuracy: 77.3696113201%
+('Valid Loss = ', 0.29547185)
+Valid  Classification Accuracy: 62.7909017901%
+('Test Loss = ', 0.26592398)
+Test  Classification Accuracy: 67.4692205558%
+ 
+('Epoch 8 loss', 0.17475102414559759)
+Train  Classification Accuracy: 77.9669444389%
+('Valid Loss = ', 0.29202157)
+Valid  Classification Accuracy: 62.9348441429%
+('Test Loss = ', 0.26229945)
+Test  Classification Accuracy: 67.5861522677%
+ 
+('Epoch 9 loss', 0.16972555545803686)
+Train  Classification Accuracy: 78.4916500741%
+('Valid Loss = ', 0.28861329)
+Valid  Classification Accuracy: 63.0489447885%
+('Test Loss = ', 0.2593025)
+Test  Classification Accuracy: 67.6427321283%
+ 
+('Epoch 10 loss', 0.16524791854963147)
+Train  Classification Accuracy: 78.9266328334%
+('Valid Loss = ', 0.28533497)
+Valid  Classification Accuracy: 63.1270598458%
+('Test Loss = ', 0.2564517)
+Test  Classification Accuracy: 67.7177947434%
+ 
+('Epoch 11 loss', 0.16123173698208199)
+Train  Classification Accuracy: 79.3268661353%
+('Valid Loss = ', 0.28216442)
+Valid  Classification Accuracy: 63.2815345659%
+('Test Loss = ', 0.25351584)
+Test  Classification Accuracy: 67.8377440478%
+ 
+('Epoch 12 loss', 0.1575986398930587)
+Train  Classification Accuracy: 79.7083280259%
+('Valid Loss = ', 0.27960777)
+Valid  Classification Accuracy: 63.3306856132%
+('Test Loss = ', 0.25075415)
+Test  Classification Accuracy: 67.9788165002%
+ 
+('Epoch 13 loss', 0.15431358010959464)
+Train  Classification Accuracy: 80.040626697%
+('Valid Loss = ', 0.27738345)
+Valid  Classification Accuracy: 63.416699946%
+('Test Loss = ', 0.24843545)
+Test  Classification Accuracy: 68.0829234437%
+ 
+('Epoch 14 loss', 0.15135580340016147)
+Train  Classification Accuracy: 80.3582881367%
+('Valid Loss = ', 0.27536955)
+Valid  Classification Accuracy: 63.4820883929%
+('Test Loss = ', 0.24639304)
+Test  Classification Accuracy: 68.1108361749%
+ 
+('Epoch 15 loss', 0.14867404613450227)
+Train  Classification Accuracy: 80.6464516446%
+('Valid Loss = ', 0.27358398)
+Valid  Classification Accuracy: 63.5180739811%
+('Test Loss = ', 0.24475114)
+Test  Classification Accuracy: 68.1613808504%
+ 
+('Epoch 16 loss', 0.14623305821232185)
+Train  Classification Accuracy: 80.9095866044%
+('Valid Loss = ', 0.27206016)
+Valid  Classification Accuracy: 63.5667861798%
+('Test Loss = ', 0.24321519)
+Test  Classification Accuracy: 68.1591176559%
+ 
+('Epoch 17 loss', 0.14399982337897685)
+Train  Classification Accuracy: 81.1650118774%
+('Valid Loss = ', 0.27085096)
+Valid  Classification Accuracy: 63.5860955198%
+('Test Loss = ', 0.24204482)
+Test  Classification Accuracy: 68.1330909201%
+ 
+('Epoch 18 loss', 0.14195168507688868)
+Train  Classification Accuracy: 81.3917213607%
+('Valid Loss = ', 0.26989883)
+Valid  Classification Accuracy: 63.6049660112%
+('Test Loss = ', 0.24121262)
+Test  Classification Accuracy: 68.1296961284%
+ 
+('Epoch 19 loss', 0.14007186062130067)
+Train  Classification Accuracy: 81.5995476984%
+('Valid Loss = ', 0.26919803)
+Valid  Classification Accuracy: 63.5856566712%
+('Test Loss = ', 0.24051644)
+Test  Classification Accuracy: 68.0882042307%
+ 
+('Epoch 20 loss', 0.13834795516969239)
+Train  Classification Accuracy: 81.8127372963%
+('Valid Loss = ', 0.26859)
+Valid  Classification Accuracy: 63.578635093%
+('Test Loss = ', 0.23986466)
+Test  Classification Accuracy: 68.0255891849%
+ 
+('Epoch 21 loss', 0.13676610635255154)
+Train  Classification Accuracy: 81.997658043%
+('Valid Loss = ', 0.26811978)
+Valid  Classification Accuracy: 63.5856566712%
+('Test Loss = ', 0.23931383)
+Test  Classification Accuracy: 68.0225715924%
+ 
+('Epoch 22 loss', 0.13529797500158702)
+Train  Classification Accuracy: 82.1738634916%
+('Valid Loss = ', 0.26780897)
+Valid  Classification Accuracy: 63.5382610184%
+('Test Loss = ', 0.23867962)
+Test  Classification Accuracy: 68.0719846706%
+ 
+('Epoch 23 loss', 0.13392892692710781)
+Train  Classification Accuracy: 82.3546500584%
+('Valid Loss = ', 0.26768094)
+Valid  Classification Accuracy: 63.5439660507%
+('Test Loss = ', 0.23833744)
+Test  Classification Accuracy: 68.1029149944%
+ 
+('Epoch 24 loss', 0.13265266675499979)
+Train  Classification Accuracy: 82.5327549951%
+('Valid Loss = ', 0.26771343)
+Valid  Classification Accuracy: 63.5224624675%
+('Test Loss = ', 0.23801833)
+Test  Classification Accuracy: 68.1334681191%
+ 
+('Epoch 25 loss', 0.1314534207565482)
+Train  Classification Accuracy: 82.6873956678%
+('Valid Loss = ', 0.26796407)
+Valid  Classification Accuracy: 63.5027142788%
+('Test Loss = ', 0.23804791)
+Test  Classification Accuracy: 68.1123449712%
+ 
+('Epoch 26 loss', 0.13032090341148594)
+Train  Classification Accuracy: 82.8490756197%
+('Valid Loss = ', 0.26829648)
+Valid  Classification Accuracy: 63.4399589238%
+('Test Loss = ', 0.23800614)
+Test  Classification Accuracy: 68.0618002957%
+ 
+('Epoch 27 loss', 0.12924945755935102)
+Train  Classification Accuracy: 83.0097499603%
+('Valid Loss = ', 0.26870596)
+Valid  Classification Accuracy: 63.373253931%
+('Test Loss = ', 0.23815872)
+Test  Classification Accuracy: 68.0493527264%
+ 
+('Epoch 28 loss', 0.1282323600985672)
+Train  Classification Accuracy: 83.1498651363%
+('Valid Loss = ', 0.26915693)
+Valid  Classification Accuracy: 63.3241028837%
+('Test Loss = ', 0.23828109)
+Test  Classification Accuracy: 68.0142732128%
+ 
+('Epoch 29 loss', 0.12726600775927255)
+Train  Classification Accuracy: 83.2926619425%
+('Valid Loss = ', 0.26964468)
+Valid  Classification Accuracy: 63.3188367%
+('Test Loss = ', 0.23862588)
+Test  Classification Accuracy: 68.0172908054%
+ 
+('Epoch 30 loss', 0.12634604786147347)
+Train  Classification Accuracy: 83.432106711%
+('Valid Loss = ', 0.27015629)
+Valid  Classification Accuracy: 63.2964554196%
+('Test Loss = ', 0.23906918)
+Test  Classification Accuracy: 68.0093696249%
+ 
+('Epoch 31 loss', 0.12546544195953996)
+Train  Classification Accuracy: 83.5704341336%
+('Valid Loss = ', 0.27068624)
+Valid  Classification Accuracy: 63.2578367395%
+('Test Loss = ', 0.23957767)
+Test  Classification Accuracy: 67.9769305048%
+ 
+('Epoch 32 loss', 0.12461866877344216)
+Train  Classification Accuracy: 83.6981467701%
+('Valid Loss = ', 0.27121949)
+Valid  Classification Accuracy: 63.2394050968%
+('Test Loss = ', 0.24013424)
+Test  Classification Accuracy: 67.9448685838%
+ 
+('Epoch 33 loss', 0.12380231353425659)
+Train  Classification Accuracy: 83.8244068569%
+('Valid Loss = ', 0.27180359)
+Valid  Classification Accuracy: 63.2358943077%
+('Test Loss = ', 0.24075519)
+Test  Classification Accuracy: 67.9139382601%
+ 
+('Epoch 34 loss', 0.12301780187247384)
+Train  Classification Accuracy: 83.9398286885%
+('Valid Loss = ', 0.27238905)
+Valid  Classification Accuracy: 63.2117576327%
+('Test Loss = ', 0.24138023)
+Test  Classification Accuracy: 67.8754639549%
+ 
+('Epoch 35 loss', 0.12226231202957949)
+Train  Classification Accuracy: 84.0549153164%
+('Valid Loss = ', 0.27291116)
+Valid  Classification Accuracy: 63.1893763522%
+('Test Loss = ', 0.24197936)
+Test  Classification Accuracy: 67.8607531911%
+ 
+('Epoch 36 loss', 0.1215362215280333)
+Train  Classification Accuracy: 84.1634096034%
+('Valid Loss = ', 0.27341753)
+Valid  Classification Accuracy: 63.1713835581%
+('Test Loss = ', 0.24255908)
+Test  Classification Accuracy: 67.8384984459%
+ 
+('Epoch 37 loss', 0.12083747957990848)
+Train  Classification Accuracy: 84.2743620514%
+('Valid Loss = ', 0.27392262)
+Valid  Classification Accuracy: 63.1722612554%
+('Test Loss = ', 0.2431449)
+Test  Classification Accuracy: 67.7988925435%
+ 
+('Epoch 38 loss', 0.12016265614446546)
+Train  Classification Accuracy: 84.3801747082%
+('Valid Loss = ', 0.27441436)
+Valid  Classification Accuracy: 63.1731389526%
+('Test Loss = ', 0.24373166)
+Test  Classification Accuracy: 67.7943661547%
+ 
+('Epoch 39 loss', 0.11951530918837126)
+Train  Classification Accuracy: 84.4818531852%
+('Valid Loss = ', 0.27492729)
+Valid  Classification Accuracy: 63.1696281636%
+('Test Loss = ', 0.24434534)
+Test  Classification Accuracy: 67.7649446272%
+ 
+('Epoch 40 loss', 0.11889224982564846)
+Train  Classification Accuracy: 84.5824143163%
+('Valid Loss = ', 0.27547219)
+Valid  Classification Accuracy: 63.1652396772%
+('Test Loss = ', 0.24502203)
+Test  Classification Accuracy: 67.7445758774%
+ 
+('Epoch 41 loss', 0.11828991216427791)
+Train  Classification Accuracy: 84.6740366802%
+('Valid Loss = ', 0.2760112)
+Valid  Classification Accuracy: 63.1511965208%
+('Test Loss = ', 0.24569167)
+Test  Classification Accuracy: 67.7045927759%
+ 
+('Epoch 42 loss', 0.11770679752559486)
+Train  Classification Accuracy: 84.7608544568%
+('Valid Loss = ', 0.27654153)
+Valid  Classification Accuracy: 63.1318871808%
+('Test Loss = ', 0.24632764)
+Test  Classification Accuracy: 67.6642324753%
+ 
+('Epoch 43 loss', 0.11714319843130448)
+Train  Classification Accuracy: 84.8541528395%
+('Valid Loss = ', 0.27705774)
+Valid  Classification Accuracy: 63.0923908035%
+('Test Loss = ', 0.24694431)
+Test  Classification Accuracy: 67.6483901144%
+ 
+('Epoch 44 loss', 0.11660000236674752)
+Train  Classification Accuracy: 84.9463338764%
+('Valid Loss = ', 0.27758384)
+Valid  Classification Accuracy: 63.1059951112%
+('Test Loss = ', 0.24754025)
+Test  Classification Accuracy: 67.6061438185%
+ 
+('Epoch 45 loss', 0.1160753823154595)
+Train  Classification Accuracy: 85.0334868567%
+('Valid Loss = ', 0.27812082)
+Valid  Classification Accuracy: 63.1200382676%
+('Test Loss = ', 0.24808984)
+Test  Classification Accuracy: 67.5816258789%
+ 
+('Epoch 46 loss', 0.115569413453757)
+Train  Classification Accuracy: 85.1203046332%
+('Valid Loss = ', 0.27868509)
+Valid  Classification Accuracy: 63.105117414%
+('Test Loss = ', 0.2487576)
+Test  Classification Accuracy: 67.5525815504%
+ 
+('Epoch 47 loss', 0.11508164804714095)
+Train  Classification Accuracy: 85.2022060877%
+('Valid Loss = ', 0.27926293)
+Valid  Classification Accuracy: 63.0932685008%
+('Test Loss = ', 0.24940446)
+Test  Classification Accuracy: 67.5242916201%
+ 
+('Epoch 48 loss', 0.11461153897144996)
+Train  Classification Accuracy: 85.2761743864%
+('Valid Loss = ', 0.27984405)
+Valid  Classification Accuracy: 63.0621102476%
+('Test Loss = ', 0.25001663)
+Test  Classification Accuracy: 67.5144844443%
+ 
+('Epoch 49 loss', 0.11415754307359208)
+Train  Classification Accuracy: 85.3530477844%
+('Valid Loss = ', 0.28041399)
+Valid  Classification Accuracy: 63.031390843%
+('Test Loss = ', 0.25059137)
+Test  Classification Accuracy: 67.5009052778%
+ 
+('Epoch 50 loss', 0.11371646246775494)
+Train  Classification Accuracy: 85.4252283296%
+('Valid Loss = ', 0.28096858)
+Valid  Classification Accuracy: 62.9910167684%
+('Test Loss = ', 0.25114557)
+Test  Classification Accuracy: 67.4530009958%
+ 
+('Epoch 51 loss', 0.11328665987948187)
+Train  Classification Accuracy: 85.4895874535%
+('Valid Loss = ', 0.28148502)
+Valid  Classification Accuracy: 62.9984771952%
+('Test Loss = ', 0.25166801)
+Test  Classification Accuracy: 67.4216934729%
+ 
+('Epoch 52 loss', 0.11286773318981845)
+Train  Classification Accuracy: 85.5474659712%
+('Valid Loss = ', 0.2819609)
+Valid  Classification Accuracy: 63.0002325898%
+('Test Loss = ', 0.25216436)
+Test  Classification Accuracy: 67.3828419687%
+ 
+('Epoch 53 loss', 0.11246160867578694)
+Train  Classification Accuracy: 85.6186409051%
+('Valid Loss = ', 0.28240949)
+Valid  Classification Accuracy: 62.9892613739%
+('Test Loss = ', 0.25264937)
+Test  Classification Accuracy: 67.3515344458%
+ 
+('Epoch 54 loss', 0.11206694105572378)
+Train  Classification Accuracy: 85.692274%
+('Valid Loss = ', 0.28283292)
+Valid  Classification Accuracy: 62.9883836766%
+('Test Loss = ', 0.25312799)
+Test  Classification Accuracy: 67.3368236821%
+ 
+('Epoch 55 loss', 0.11168365631941779)
+Train  Classification Accuracy: 85.7588678157%
+('Valid Loss = ', 0.28325069)
+Valid  Classification Accuracy: 62.9804844011%
+('Test Loss = ', 0.2535924)
+Test  Classification Accuracy: 67.3436132653%
+ 
+('Epoch 56 loss', 0.11131039820715594)
+Train  Classification Accuracy: 85.8262437736%
+('Valid Loss = ', 0.28368506)
+Valid  Classification Accuracy: 62.9839951902%
+('Test Loss = ', 0.25405869)
+Test  Classification Accuracy: 67.3160777332%
+ 
+('Epoch 57 loss', 0.11094665446965771)
+Train  Classification Accuracy: 85.8939549352%
+('Valid Loss = ', 0.28412327)
+Valid  Classification Accuracy: 62.9905779198%
+('Test Loss = ', 0.2545287)
+Test  Classification Accuracy: 67.3247533118%
+ 
+('Epoch 58 loss', 0.11059049061718701)
+Train  Classification Accuracy: 85.9673645609%
+('Valid Loss = ', 0.28456631)
+Valid  Classification Accuracy: 63.0019879843%
+('Test Loss = ', 0.25496992)
+Test  Classification Accuracy: 67.2968405806%
+ 
+('Epoch 59 loss', 0.11024245850496148)
+Train  Classification Accuracy: 86.0348522534%
+('Valid Loss = ', 0.28499466)
+Valid  Classification Accuracy: 63.0212973243%
+('Test Loss = ', 0.25533888)
+Test  Classification Accuracy: 67.2791122243%
+ 
+('Epoch 60 loss', 0.10990261119494163)
+Train  Classification Accuracy: 86.0923955673%
+('Valid Loss = ', 0.28541613)
+Valid  Classification Accuracy: 63.0160311407%
+('Test Loss = ', 0.25581002)
+Test  Classification Accuracy: 67.277603428%
+ 
+('Epoch 61 loss', 0.10957086143329064)
+Train  Classification Accuracy: 86.1515031654%
+('Valid Loss = ', 0.28581595)
+Valid  Classification Accuracy: 63.0208584757%
+('Test Loss = ', 0.25627324)
+Test  Classification Accuracy: 67.2523310903%
+ 
+('Epoch 62 loss', 0.10924613387092257)
+Train  Classification Accuracy: 86.2044653612%
+('Valid Loss = ', 0.28618824)
+Valid  Classification Accuracy: 63.0300742971%
+('Test Loss = ', 0.25671825)
+Test  Classification Accuracy: 67.2342255349%
+ 
+('Epoch 63 loss', 0.10892750624756763)
+Train  Classification Accuracy: 86.2589918411%
+('Valid Loss = ', 0.28655326)
+Valid  Classification Accuracy: 63.0322685403%
+('Test Loss = ', 0.25699887)
+Test  Classification Accuracy: 67.2078215999%
+ 
+('Epoch 64 loss', 0.10861484217470488)
+Train  Classification Accuracy: 86.3173172972%
+('Valid Loss = ', 0.28690499)
+Valid  Classification Accuracy: 63.0230527189%
+('Test Loss = ', 0.25738451)
+Test  Classification Accuracy: 67.2112163916%
+ 
+('Epoch 65 loss', 0.10830788194816694)
+Train  Classification Accuracy: 86.3705029621%
+('Valid Loss = ', 0.28726315)
+Valid  Classification Accuracy: 63.0397289671%
+('Test Loss = ', 0.2577703)
+Test  Classification Accuracy: 67.2078215999%
+ 
+('Epoch 66 loss', 0.10800766516757984)
+Train  Classification Accuracy: 86.4197779163%
+('Valid Loss = ', 0.28762406)
+Valid  Classification Accuracy: 63.0318296916%
+('Test Loss = ', 0.25816703)
+Test  Classification Accuracy: 67.2051812064%
+ 
+('Epoch 67 loss', 0.10771365156798073)
+Train  Classification Accuracy: 86.4760921498%
+('Valid Loss = ', 0.28797483)
+Valid  Classification Accuracy: 63.0327073889%
+('Test Loss = ', 0.25857455)
+Test  Classification Accuracy: 67.2044268083%
+ 
+('Epoch 68 loss', 0.10742530079278419)
+Train  Classification Accuracy: 86.5262609807%
+('Valid Loss = ', 0.28832078)
+Valid  Classification Accuracy: 63.0502613344%
+('Test Loss = ', 0.25898218)
+Test  Classification Accuracy: 67.1825492622%
+ 
+('Epoch 69 loss', 0.10714311923575574)
+Train  Classification Accuracy: 86.5747537928%
+('Valid Loss = ', 0.28865787)
+Valid  Classification Accuracy: 63.0511390316%
+('Test Loss = ', 0.25938788)
+Test  Classification Accuracy: 67.1795316696%
+ 
+('Epoch 70 loss', 0.10686656688597697)
+Train  Classification Accuracy: 86.6249226238%
+('Valid Loss = ', 0.2889936)
+Valid  Classification Accuracy: 63.0476282425%
+('Test Loss = ', 0.25979793)
+Test  Classification Accuracy: 67.1663297022%
+ 
+('Epoch 71 loss', 0.10659560510787702)
+Train  Classification Accuracy: 86.6687225831%
+('Valid Loss = ', 0.28932369)
+Valid  Classification Accuracy: 63.050700183%
+('Test Loss = ', 0.26019579)
+Test  Classification Accuracy: 67.1618033133%
+ 
+('Epoch 72 loss', 0.10633030007793758)
+Train  Classification Accuracy: 86.722466921%
+('Valid Loss = ', 0.2896471)
+Valid  Classification Accuracy: 63.0533332748%
+('Test Loss = ', 0.26057991)
+Test  Classification Accuracy: 67.1414345635%
+ 
+('Epoch 73 loss', 0.1060700938896869)
+Train  Classification Accuracy: 86.767160757%
+('Valid Loss = ', 0.28996667)
+Valid  Classification Accuracy: 63.0528944262%
+('Test Loss = ', 0.26091379)
+Test  Classification Accuracy: 67.1338905821%
+ 
+('Epoch 74 loss', 0.1058151543082106)
+Train  Classification Accuracy: 86.8214637678%
+('Valid Loss = ', 0.29026622)
+Valid  Classification Accuracy: 63.0436786048%
+('Test Loss = ', 0.26116744)
+Test  Classification Accuracy: 67.117293823%
+ 
+('Epoch 75 loss', 0.10556566705661756)
+Train  Classification Accuracy: 86.862023424%
+('Valid Loss = ', 0.29054096)
+Valid  Classification Accuracy: 63.0476282425%
+('Test Loss = ', 0.26147145)
+Test  Classification Accuracy: 67.1089954434%
+ 
+('Epoch 76 loss', 0.10532136959877009)
+Train  Classification Accuracy: 86.8965494124%
+('Valid Loss = ', 0.29081878)
+Valid  Classification Accuracy: 63.0449951507%
+('Test Loss = ', 0.26178062)
+Test  Classification Accuracy: 67.0867406983%
+ 
+('Epoch 77 loss', 0.10508225638317356)
+Train  Classification Accuracy: 86.9415784522%
+('Valid Loss = ', 0.29109746)
+Valid  Classification Accuracy: 63.0428009075%
+('Test Loss = ', 0.26208934)
+Test  Classification Accuracy: 67.0780651196%
+ 
+('Epoch 78 loss', 0.10484785032279002)
+Train  Classification Accuracy: 86.9767748481%
+('Valid Loss = ', 0.29139078)
+Valid  Classification Accuracy: 63.0239304162%
+('Test Loss = ', 0.26239687)
+Test  Classification Accuracy: 67.0754247262%
+ 
+('Epoch 79 loss', 0.10461826597914607)
+Train  Classification Accuracy: 87.021245215%
+('Valid Loss = ', 0.29169223)
+Valid  Classification Accuracy: 63.0322685403%
+('Test Loss = ', 0.26269823)
+Test  Classification Accuracy: 67.0739159299%
+ 
+('Epoch 80 loss', 0.10439397801128161)
+Train  Classification Accuracy: 87.061581402%
+('Valid Loss = ', 0.29199558)
+Valid  Classification Accuracy: 63.0340239348%
+('Test Loss = ', 0.26299405)
+Test  Classification Accuracy: 67.0750475271%
+ 
+('Epoch 81 loss', 0.1041747371641666)
+Train  Classification Accuracy: 87.1048226884%
+('Valid Loss = ', 0.29230812)
+Valid  Classification Accuracy: 63.016908838%
+('Test Loss = ', 0.26329273)
+Test  Classification Accuracy: 67.0795739159%
+ 
+('Epoch 82 loss', 0.10396029720215107)
+Train  Classification Accuracy: 87.1387900038%
+('Valid Loss = ', 0.29263407)
+Valid  Classification Accuracy: 63.0160311407%
+('Test Loss = ', 0.26346469)
+Test  Classification Accuracy: 67.0750475271%
+ 
+('Epoch 83 loss', 0.10375042173901106)
+Train  Classification Accuracy: 87.1732042575%
+('Valid Loss = ', 0.29298511)
+Valid  Classification Accuracy: 63.016908838%
+('Test Loss = ', 0.2637887)
+Test  Classification Accuracy: 67.0648631522%
+ 
+('Epoch 84 loss', 0.10354490233340564)
+Train  Classification Accuracy: 87.2137639137%
+('Valid Loss = ', 0.29335174)
+Valid  Classification Accuracy: 63.0160311407%
+('Test Loss = ', 0.26411793)
+Test  Classification Accuracy: 67.0509067866%
+ 
+('Epoch 85 loss', 0.10334374339571208)
+Train  Classification Accuracy: 87.2440439877%
+('Valid Loss = ', 0.2937381)
+Valid  Classification Accuracy: 62.9888225252%
+('Test Loss = ', 0.26446262)
+Test  Classification Accuracy: 67.0475119949%
+ 
+('Epoch 86 loss', 0.10314599370459993)
+Train  Classification Accuracy: 87.2781230377%
+('Valid Loss = ', 0.29414186)
+Valid  Classification Accuracy: 62.9765347634%
+('Test Loss = ', 0.26482517)
+Test  Classification Accuracy: 67.0090376897%
+ 
+('Epoch 87 loss', 0.10295173486662418)
+Train  Classification Accuracy: 87.3173418788%
+('Valid Loss = ', 0.29455504)
+Valid  Classification Accuracy: 62.9695131852%
+('Test Loss = ', 0.26518714)
+Test  Classification Accuracy: 66.999607713%
+ 
+('Epoch 88 loss', 0.10276127624538373)
+Train  Classification Accuracy: 87.3591306155%
+('Valid Loss = ', 0.29496673)
+Valid  Classification Accuracy: 62.9633693043%
+('Test Loss = ', 0.26553991)
+Test  Classification Accuracy: 66.9830109539%
+ 
+('Epoch 89 loss', 0.1025745379001885)
+Train  Classification Accuracy: 87.3911984429%
+('Valid Loss = ', 0.2953831)
+Valid  Classification Accuracy: 62.957664272%
+('Test Loss = ', 0.26588973)
+Test  Classification Accuracy: 66.9803705604%
+ 
+('Epoch 90 loss', 0.10239154773427495)
+Train  Classification Accuracy: 87.4281825922%
+('Valid Loss = ', 0.29580188)
+Valid  Classification Accuracy: 62.9379160834%
+('Test Loss = ', 0.26624075)
+Test  Classification Accuracy: 66.972826579%
+ 
+('Epoch 91 loss', 0.10221216107977377)
+Train  Classification Accuracy: 87.4680718409%
+('Valid Loss = ', 0.29621544)
+Valid  Classification Accuracy: 62.9085132247%
+('Test Loss = ', 0.26660237)
+Test  Classification Accuracy: 66.9660369957%
+ 
+('Epoch 92 loss', 0.10203606834819424)
+Train  Classification Accuracy: 87.5063968053%
+('Valid Loss = ', 0.29662919)
+Valid  Classification Accuracy: 62.8988585547%
+('Test Loss = ', 0.26698223)
+Test  Classification Accuracy: 66.9494402366%
+ 
+('Epoch 93 loss', 0.10186319932749713)
+Train  Classification Accuracy: 87.5398054477%
+('Valid Loss = ', 0.29704541)
+Valid  Classification Accuracy: 62.883937701%
+('Test Loss = ', 0.26736662)
+Test  Classification Accuracy: 66.9283170886%
+ 
+('Epoch 94 loss', 0.10169339295770284)
+Train  Classification Accuracy: 87.5690799103%
+('Valid Loss = ', 0.29746079)
+Valid  Classification Accuracy: 62.8681391501%
+('Test Loss = ', 0.26765451)
+Test  Classification Accuracy: 66.8951235704%
+ 
+('Epoch 95 loss', 0.10152629703749752)
+Train  Classification Accuracy: 87.5971252925%
+('Valid Loss = ', 0.29785943)
+Valid  Classification Accuracy: 62.8400528374%
+('Test Loss = ', 0.26803833)
+Test  Classification Accuracy: 66.8811672048%
+ 
+('Epoch 96 loss', 0.10136179877950068)
+Train  Classification Accuracy: 87.6262880205%
+('Valid Loss = ', 0.29823738)
+Valid  Classification Accuracy: 62.8132830705%
+('Test Loss = ', 0.26837984)
+Test  Classification Accuracy: 66.855517668%
+ 
+('Epoch 97 loss', 0.10119982455248537)
+Train  Classification Accuracy: 87.6536629951%
+('Valid Loss = ', 0.29859361)
+Valid  Classification Accuracy: 62.7882686982%
+('Test Loss = ', 0.26868832)
+Test  Classification Accuracy: 66.8426928996%
+ 
+('Epoch 98 loss', 0.10104031453940907)
+Train  Classification Accuracy: 87.6756747093%
+('Valid Loss = ', 0.29894495)
+Valid  Classification Accuracy: 62.7746643905%
+('Test Loss = ', 0.26899785)
+Test  Classification Accuracy: 66.8249645433%
+ 
+('Epoch 99 loss', 0.10088327056022914)
+Train  Classification Accuracy: 87.7018206034%
+('Valid Loss = ', 0.2992906)
+Valid  Classification Accuracy: 62.7496500182%
+('Test Loss = ', 0.26931107)
+Test  Classification Accuracy: 66.8294909321%
+ 
+('Epoch 100 loss', 0.10072863934058728)
+Train  Classification Accuracy: 87.7362348572%
+('Valid Loss = ', 0.29962978)
+Valid  Classification Accuracy: 62.7320960727%
+('Test Loss = ', 0.26961648)
+Test  Classification Accuracy: 66.8136485712%
+ 
+('Epoch 101 loss', 0.1005762583587075)
+Train  Classification Accuracy: 87.7659562581%
+('Valid Loss = ', 0.29996201)
+Valid  Classification Accuracy: 62.7193694623%
+('Test Loss = ', 0.2699168)
+Test  Classification Accuracy: 66.7932798214%
+ 
+('Epoch 102 loss', 0.10042616215213308)
+Train  Classification Accuracy: 87.7927725598%
+('Valid Loss = ', 0.30029544)
+Valid  Classification Accuracy: 62.7044486086%
+('Test Loss = ', 0.2701779)
+Test  Classification Accuracy: 66.7763058632%
+ 
+('Epoch 103 loss', 0.10027858113079779)
+Train  Classification Accuracy: 87.8122143785%
+('Valid Loss = ', 0.30062529)
+Valid  Classification Accuracy: 62.699182425%
+('Test Loss = ', 0.27036664)
+Test  Classification Accuracy: 66.7879990344%
+ 
+('Epoch 104 loss', 0.10013363098068701)
+Train  Classification Accuracy: 87.838248538%
+('Valid Loss = ', 0.30095002)
+Valid  Classification Accuracy: 62.6754845986%
+('Test Loss = ', 0.27065113)
+Test  Classification Accuracy: 66.7879990344%
+ 
+('Epoch 105 loss', 0.09999129457254527)
+Train  Classification Accuracy: 87.8639474937%
+('Valid Loss = ', 0.30127999)
+Valid  Classification Accuracy: 62.6566141072%
+('Test Loss = ', 0.27094886)
+Test  Classification Accuracy: 66.7702706781%
+ 
+('Epoch 106 loss', 0.099851458715019839)
+Train  Classification Accuracy: 87.889758184%
+('Valid Loss = ', 0.30161309)
+Valid  Classification Accuracy: 62.6570529559%
+('Test Loss = ', 0.27124116)
+Test  Classification Accuracy: 66.7661214883%
+ 
+('Epoch 107 loss', 0.099714027899913515)
+Train  Classification Accuracy: 87.9124403058%
+('Valid Loss = ', 0.3019335)
+Valid  Classification Accuracy: 62.6588083504%
+('Test Loss = ', 0.27151397)
+Test  Classification Accuracy: 66.7510335255%
+ 
+('Epoch 108 loss', 0.099578966269485106)
+Train  Classification Accuracy: 87.9370219156%
+('Valid Loss = ', 0.30224508)
+Valid  Classification Accuracy: 62.6443263454%
+('Test Loss = ', 0.27181077)
+Test  Classification Accuracy: 66.7683846827%
+ 
+('Epoch 109 loss', 0.099446346971860736)
+Train  Classification Accuracy: 87.9601509758%
+('Valid Loss = ', 0.30254507)
+Valid  Classification Accuracy: 62.6346716754%
+('Test Loss = ', 0.27208352)
+Test  Classification Accuracy: 66.7721566734%
+ 
+('Epoch 110 loss', 0.099315968833034965)
+Train  Classification Accuracy: 87.9899841113%
+('Valid Loss = ', 0.30283204)
+Valid  Classification Accuracy: 62.6210673677%
+('Test Loss = ', 0.27230614)
+Test  Classification Accuracy: 66.7819638492%
+ 
+('Epoch 111 loss', 0.099187294445003196)
+Train  Classification Accuracy: 88.0157948017%
+('Valid Loss = ', 0.30310735)
+Valid  Classification Accuracy: 62.620628519%
+('Test Loss = ', 0.27250564)
+Test  Classification Accuracy: 66.7883762334%
+ 
+('Epoch 112 loss', 0.099060391895826994)
+Train  Classification Accuracy: 88.0438401838%
+('Valid Loss = ', 0.30337405)
+Valid  Classification Accuracy: 62.6144846381%
+('Test Loss = ', 0.27269557)
+Test  Classification Accuracy: 66.7834726455%
+ 
+('Epoch 113 loss', 0.098935154195335606)
+Train  Classification Accuracy: 88.0696508741%
+('Valid Loss = ', 0.30363694)
+Valid  Classification Accuracy: 62.6096573031%
+('Test Loss = ', 0.27285275)
+Test  Classification Accuracy: 66.7959202149%
+ 
+('Epoch 114 loss', 0.098811505809051486)
+Train  Classification Accuracy: 88.0915508538%
+('Valid Loss = ', 0.3038972)
+Valid  Classification Accuracy: 62.615801184%
+('Test Loss = ', 0.27296901)
+Test  Classification Accuracy: 66.8000694046%
+ 
+('Epoch 115 loss', 0.098689066848986776)
+Train  Classification Accuracy: 88.1098753265%
+('Valid Loss = ', 0.30414706)
+Valid  Classification Accuracy: 62.601319179%
+('Test Loss = ', 0.27315363)
+Test  Classification Accuracy: 66.8030869972%
+ 
+('Epoch 116 loss', 0.098568461202355726)
+Train  Classification Accuracy: 88.1304344911%
+('Valid Loss = ', 0.30440235)
+Valid  Classification Accuracy: 62.6048299681%
+('Test Loss = ', 0.27337217)
+Test  Classification Accuracy: 66.8136485712%
+ 
+('Epoch 117 loss', 0.098450249499319117)
+Train  Classification Accuracy: 88.1506584519%
+('Valid Loss = ', 0.30466115)
+Valid  Classification Accuracy: 62.6057076654%
+('Test Loss = ', 0.2736133)
+Test  Classification Accuracy: 66.8159117656%
+ 
+('Epoch 118 loss', 0.098333405467169857)
+Train  Classification Accuracy: 88.1742344505%
+('Valid Loss = ', 0.30492178)
+Valid  Classification Accuracy: 62.5881537199%
+('Test Loss = ', 0.27386332)
+Test  Classification Accuracy: 66.8079905851%
+ 
+('Epoch 119 loss', 0.098218196144045367)
+Train  Classification Accuracy: 88.1951288188%
+('Valid Loss = ', 0.30517936)
+Valid  Classification Accuracy: 62.5921033576%
+('Test Loss = ', 0.27411658)
+Test  Classification Accuracy: 66.8008238028%
+ 
+('Epoch 120 loss', 0.098104319662738609)
+Train  Classification Accuracy: 88.2212747129%
+('Valid Loss = ', 0.30543655)
+Valid  Classification Accuracy: 62.591664509%
+('Test Loss = ', 0.2743634)
+Test  Classification Accuracy: 66.7959202149%
+ 
+('Epoch 121 loss', 0.097991892450544807)
+Train  Classification Accuracy: 88.246861934%
+('Valid Loss = ', 0.30569318)
+Valid  Classification Accuracy: 62.5890314172%
+('Test Loss = ', 0.27460316)
+Test  Classification Accuracy: 66.7846042427%
+ 
+('Epoch 122 loss', 0.097880956220720114)
+Train  Classification Accuracy: 88.2645159993%
+('Valid Loss = ', 0.30594888)
+Valid  Classification Accuracy: 62.5890314172%

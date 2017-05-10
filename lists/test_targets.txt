@@ -1,0 +1,14 @@
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/03 - School.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/03 - Une charogne.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/03 - castaway.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/04 - Believe.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/04 - Healing Luna.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/04 - Inside.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/04 - You are.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - 05 LIrlandaise.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - 16 ans.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - 2003-Circonstances attenuantes part II.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - A Poings Fermes.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - Crepuscule.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - Dance.lab
+/Users/RupakVignesh/Desktop/spring17/7100/Data/gt_labels/05 - Elles disent.lab
