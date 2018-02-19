@@ -8,6 +8,13 @@ The input feature representation is also explored, where the
 conventional spectral features extracted from the magnitude
 response are replaced with features extracted from the phase response.
 
-Requirements
-Python 3, Matlab
-sklearn, numpy, and tensorflow.
+## Poster
+[![Poster Link](https://github.com/rupakvignesh/Singing-Voice-Detection/blob/master/GTCMT%20Poster.pdf)]
+
+## Pre-requisite
+
+* Python 3
+* Matlab
+* sklearn
+* numpy and
+* tensorflow.
